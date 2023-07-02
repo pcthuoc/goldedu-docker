@@ -11,7 +11,7 @@ First, [Docker](https://www.docker.com/) and [Docker Compose](https://docs.docke
 Clone the repository:
 
 ```sh
-$ git clone --recursive https://github.com/pcthuoc/vnoj-docker.git
+$ git clone --recursive https://github.com/pcthuoc/goldedu-docker.git
 $ cd vnoj-docker/dmoj
 ```
 
